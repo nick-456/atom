@@ -1,2 +1,2 @@
-# atom
+# atomic
 Created with CodeSandbox
